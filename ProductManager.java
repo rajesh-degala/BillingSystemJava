@@ -1,3 +1,5 @@
+import java.util.*;
+
 class ProductManager {
     private List<Product> productList = new ArrayList<>();
 
